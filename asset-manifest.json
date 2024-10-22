@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nomad-flavors/static/css/main.d40cb78d.css",
-    "main.js": "/nomad-flavors/static/js/main.d70c8072.js",
+    "main.js": "/nomad-flavors/static/js/main.fd322011.js",
     "static/js/453.33ce533e.chunk.js": "/nomad-flavors/static/js/453.33ce533e.chunk.js",
     "static/media/FastFood3.png": "/nomad-flavors/static/media/FastFood3.9365bdc95f8640150a10.png",
     "static/media/OurRestaurant1.png": "/nomad-flavors/static/media/OurRestaurant1.ca13f071e8d3d01e2516.png",
@@ -70,11 +70,11 @@
     "static/media/logo.png": "/nomad-flavors/static/media/logo.176827c894ac18ed063e.png",
     "index.html": "/nomad-flavors/index.html",
     "main.d40cb78d.css.map": "/nomad-flavors/static/css/main.d40cb78d.css.map",
-    "main.d70c8072.js.map": "/nomad-flavors/static/js/main.d70c8072.js.map",
+    "main.fd322011.js.map": "/nomad-flavors/static/js/main.fd322011.js.map",
     "453.33ce533e.chunk.js.map": "/nomad-flavors/static/js/453.33ce533e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d40cb78d.css",
-    "static/js/main.d70c8072.js"
+    "static/js/main.fd322011.js"
   ]
 }
